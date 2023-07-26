@@ -2,7 +2,7 @@
 
 # Summary
 
-- [Computer Vision](https://github.com/paulojunqueira/Data-Science-Study-and-Projects/edit/main/README.md#Computer-Vision)
+- [Computer Vision](https://github.com/paulojunqueira/Data-Science-Study-and-Projects/blob/main/README.md#Computer-Vision)
 
 
 Computer Vision
