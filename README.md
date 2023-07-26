@@ -15,3 +15,8 @@
 
 
 # Large Langue Models - LLM
+
+# Classification
+
+
+# Regression
