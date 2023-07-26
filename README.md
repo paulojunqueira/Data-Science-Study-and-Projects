@@ -5,7 +5,7 @@
 - [Computer Vision](#Computer-Vision)
 - [Large Langue Models - LLM](#Large-Langue-Models---LLM)
 
-Computer Vision
+# Computer Vision
 
 
 
@@ -14,21 +14,4 @@ Computer Vision
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Large Langue Models - LLM
+# Large Langue Models - LLM
