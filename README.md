@@ -20,6 +20,8 @@
   - Key Words: LangChain | Hugging Face | Llama-2 | LLM Model | Generative AI | Transformers | QA
     
 # Classification
-
+- [Training Pipiline for AMEX Kaggle Competition](https://www.kaggle.com/code/paulojunqueira/training-pipeline-for-amex)
+  - In this Kaggle Notebook, a complete pipeline was created for the AMEX Competition. The competition was to predict predict deafault. Different models and variables can be used, with feature engineering, tunning and oof analysis.
+  - Key Words: Classification | CATBOOST | XGB | TABNET | LOGIT | LGBM | Feature Engineering | Tuning
 
 # Regression
