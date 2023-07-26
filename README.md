@@ -21,7 +21,7 @@
     
 # Classification
 - [Training Pipiline for AMEX Kaggle Competition](https://www.kaggle.com/code/paulojunqueira/training-pipeline-for-amex)
-  - In this Kaggle Notebook, a complete pipeline was created for the AMEX Competition. The competition was to predict predict deafault. Different models and variables can be used, with feature engineering, tunning and oof analysis.
-  - Key Words: Classification | CATBOOST | XGB | TABNET | LOGIT | LGBM | Feature Engineering | Tuning
+  - In this Kaggle Notebook, a complete pipeline was created for the AMEX Competition. The competition was to predict predict deafault. Different models and variables can be used, with feature engineering, tunning and oof analysis. The challenge of the competion was cope with the huge size of the data.
+  - Key Words: Classification | GPU Processing | CATBOOST | XGB | TABNET | LOGIT | LGBM | Feature Engineering | Tuning
 
 # Regression
