@@ -13,6 +13,10 @@
 - [Detecing and Tracking People in a ROI - Notebook](https://www.kaggle.com/code/paulojunqueira/yolo-v8-people-detection-and-tracking-in-roi)
   - In this Kaggle Notebook, a Yolo V8 model was used to detect and track peoaple passing in a region of interest (ROI).
   - Key Words: Yolo V8 | Python | Image Detection | Tracking | Detection | ROI
+ 
+- [Audio to Image Pipeline - BirdCLEF 2022](https://www.kaggle.com/code/paulojunqueira/birdclef2022-audio-to-image) 
+  - This notebook implements one of the pipelines for audio transformation to Spectograms developed for the BirdCLEF 2022 competition where our team achieve the Bronze medal in 68th position.
+  - Key Words: Sound | Image | Transformation | Pipeline | Competition
     
 # Large Language Models - LLM
 - [Story Generataion and QA from PDF with LLMs - Notebook](https://www.kaggle.com/code/paulojunqueira/story-generation-and-qa-from-pdf-with-llm)
@@ -25,3 +29,17 @@
   - Key Words: Classification | GPU Processing | CATBOOST | XGB | TABNET | LOGIT | LGBM | Feature Engineering | Tuning
 
 # Regression
+
+# EDA
+- [EDA and Web Scrapping for BirdCLEF 2023 Competition](https://www.kaggle.com/code/paulojunqueira/pew-pew-overview-birdclef-2023)
+  - Exploratory Data Analysis for the BirdCLEF 2023. Analysis of most\least common bird sounds, locations and other informations. Sound to spectogram transformation and analysis. Also, was created a Web scraping to look for additional information from the birds in the wikipedia page
+    - Key Words: Web Scraping | Sound Classification | Spectogram | Competition | EDA | Visualization
+
+- [EDA for BirdCLEF 2022 Competition](https://www.kaggle.com/code/paulojunqueira/little-bird-what-sound-is-that-eda)
+  - Exploratory Data Analysis for the BirdCLEF 2022. Analysis of most\least common bird sounds, locations and other informations. Sound to spectogram transformation and analysis.
+    - Key Words: Sound Classification | Spectogram | Competition | EDA | Visualization
+
+# Python and PySpark
+- [Hands on Pyspark Overview](https://www.kaggle.com/code/paulojunqueira/hands-on-pyspark-introduction-101)
+  - Notebook that compiles pllenty pyspark functions and transforms
+    - Key Words: PySpark | Python | Pandas | Functions | Aggregations | Distributed Computation  
