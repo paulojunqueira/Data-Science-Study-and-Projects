@@ -78,7 +78,11 @@ This repo contains a list and summary of projects that I have done in the contex
 - [Gradient Descent Experiments](https://www.kaggle.com/code/paulojunqueira/gradient-descent-experiments-and-visualizations)
   - Notebook with experiments and visualizations of Gradient Descent
   - Keywords: Python | Visualizations | Gradient Descent | Numpy
- 
+
+- [A Pathfinder Algorithm](https://github.com/paulojunqueira/Pathfinder-Project)
+  - A repository containing the implementation of a algorithm called Pathfinder. The pathfinder finds the least cost path from A -> B.
+  - Keywords: Python | Numpy | Optimization
+     
 - [N Queen Problem and EA](https://github.com/paulojunqueira/N-Queen-Problem-Evolutionary-Algorithm)
   - In this repo is implemented a Evolutionary Algorithm to solve an optimization problem called N-Queens. In this problem N chees queens have to be place in a board NxN and none of them can be kill by each other.
   - Keywords: Optimization | Evolutionary Algorithms | Python | N-Queen
