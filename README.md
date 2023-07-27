@@ -7,8 +7,9 @@ This repo contains a list and summary of projects that I have done in the contex
 - [Large Langue Models - LLM](#Large-Langue-Models---LLM)
 - [Computer Vision](#Computer-Vision)
 - [Classification](#Classification)
-- [Exploratory Data Analysis](#EDA)
 - [Python and PySpark](#Python-and-PySpark)
+- [Exploratory Data Analysis](#EDA)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # Large Language Models - LLM
@@ -61,7 +62,30 @@ This repo contains a list and summary of projects that I have done in the contex
   - Introductory notebook exploring the classic titanic datset. EDA, feature engineering and Classification Models comparison
   - Keywords: Classification | Ensemble | EDA  
 
+# Python and PySpark
+- [Ensemble Optimization with GA](https://www.kaggle.com/code/paulojunqueira/ensemble-optimization-with-ga)
+  - In this notebook, a Genetic Algorithm (GA) is implemented to optmize the OOF files from predictions for a better performance in a ensemble
+  - Keywords: Genetic Algorithm | Optimization | Ensemble | OOF   
 
+- [Hands on Pyspark Overview](https://www.kaggle.com/code/paulojunqueira/hands-on-pyspark-introduction-101)
+  - Notebook that compiles pllenty pyspark functions and transforms
+  - Keywords: PySpark | Python | Pandas | Functions | Aggregations | Distributed Computation
+    
+- [Custom MLP](https://www.kaggle.com/code/paulojunqueira/custom-mlp-0-78)
+  - Notebook that implements a custom multi layer perceptron (MLP)
+  - Keywords: Python | Neural Network | Numpy
+    
+- [Gradient Descent Experiments](https://www.kaggle.com/code/paulojunqueira/gradient-descent-experiments-and-visualizations)
+  - Notebook with experiments and visualizations of Gradient Descent
+  - Keywords: Python | Visualizations | Gradient Descent | Numpy
+ 
+- [N Queen Problem and EA](https://github.com/paulojunqueira/N-Queen-Problem-Evolutionary-Algorithm)
+  - In this repo is implemented a Evolutionary Algorithm to solve an optimization problem called N-Queens. In this problem N chees queens have to be place in a board NxN and none of them can be kill by each other.
+  - Keywords: Optimization | Evolutionary Algorithms | Python | N-Queen
+    
+- [Repo with Many other DS Developments](https://github.com/paulojunqueira/Python-Projects-and-Studies)
+  - Github repository with many other small projects applications. For instance, K-means implementation, Regression analysis, SVM, Decision Trees etc.
+  - Keywords: Machine Learning | Data Science | Python 
 
 # EDA
 - [EDA and Web Scrapping for BirdCLEF 2023 Competition](https://www.kaggle.com/code/paulojunqueira/pew-pew-overview-birdclef-2023)
@@ -76,24 +100,14 @@ This repo contains a list and summary of projects that I have done in the contex
   - Exploratory Data Analysis for the BirdCLEF 2022. Analysis of most\least common bird sounds, locations and other informations. Sound to spectogram transformation and analysis.
   - Keywords: Sound Classification | Spectogram | Competition | EDA | Visualization
 
+- [EDA for ENEM Data (in PT-BR)](https://github.com/paulojunqueira/Python-Projects-and-Studies/blob/master/Data%20Analysis/Estudo_Analise_Dados_ENEM_2019ipynb.ipynb)
+  - This study presents a statistical analysis of the data from the ENEM. This was done in PT-BR as one of the first stduies that I have done.
+  - Keywords: Statistical Analysis | Academic Data | EDA
 
+- [Used Car Sales Analysis (in PT-BR)](https://github.com/paulojunqueira/Python-Projects-and-Studies/blob/master/Data%20Analysis/Analise_Venda_Carros_Usados.ipynb)
+  - This study presents an analysis and some basic model development for an used car sales data. This was done in PT-BR as one of the first stduies that I have done.
+  - Keywords: Python | Analysis | Visualizations | EDA | Models
 
-# Python and PySpark
-- [Ensemble Optimization with GA](https://www.kaggle.com/code/paulojunqueira/ensemble-optimization-with-ga)
-  - In this notebook, a Genetic Algorithm (GA) is implemented to optmize the OOF files from predictions for a better performance in a ensemble
-  - Keywords: Genetic Algorithm | Optimization | Ensemble | OOF   
-
-- [Hands on Pyspark Overview](https://www.kaggle.com/code/paulojunqueira/hands-on-pyspark-introduction-101)
-  - Notebook that compiles pllenty pyspark functions and transforms
-  - Keywords: PySpark | Python | Pandas | Functions | Aggregations | Distributed Computation
-    
-- [Custom MLP](https://www.kaggle.com/code/paulojunqueira/custom-mlp-0-78)
-  - Notebook that implements a custom multi layer perceptron (MLP)
-  - Keywords: Python | Neural Network | Numpy
-
--[Gradient Descent Experiments](https://www.kaggle.com/code/paulojunqueira/gradient-descent-experiments-and-visualizations)
-  - Notebook with experiments and visualizations of Gradient Descent
-  - Keywords: Python | Visualizations | Gradient Descent | Numpy
 
 
 
