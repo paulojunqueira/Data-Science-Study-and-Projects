@@ -105,11 +105,11 @@ This repo contains a list and summary of projects that I have done in the contex
   - Keywords: Sound Classification | Spectogram | Competition | EDA | Visualization
 
 - [EDA for ENEM Data (in PT-BR)](https://github.com/paulojunqueira/Python-Projects-and-Studies/blob/master/Data%20Analysis/Estudo_Analise_Dados_ENEM_2019ipynb.ipynb)
-  - This study presents a statistical analysis of the data from the ENEM. This was done in PT-BR as one of the first stduies that I have done.
+  - This study presents a statistical analysis of the data from the ENEM. This was done in PT-BR as one of the first studies that I have done.
   - Keywords: Statistical Analysis | Academic Data | EDA
 
 - [Used Car Sales Analysis (in PT-BR)](https://github.com/paulojunqueira/Python-Projects-and-Studies/blob/master/Data%20Analysis/Analise_Venda_Carros_Usados.ipynb)
-  - This study presents an analysis and some basic model development for an used car sales data. This was done in PT-BR as one of the first stduies that I have done.
+  - This study presents an analysis and some basic model development for an used car sales data. This was done in PT-BR as one of the first studies that I have done.
   - Keywords: Python | Analysis | Visualizations | EDA | Models
 
 
