@@ -87,7 +87,7 @@ This repo contains a list and summary of projects that I have done in the contex
   - In this repo is implemented a Evolutionary Algorithm to solve an optimization problem called N-Queens. In this problem N chees queens have to be place in a board NxN and none of them can be kill by each other.
   - Keywords: Optimization | Evolutionary Algorithms | Python | N-Queen
     
-- [Repo with Many other DS Developments](https://github.com/paulojunqueira/Python-Projects-and-Studies)
+- [Repo with Many other DS Developments](https://github.com/paulojunqueira/Python-Projects-and-Studies) and [ML implementations](https://github.com/paulojunqueira/Machine-Learning-Implementations/tree/master)
   - Github repository with many other small projects applications. For instance, K-means implementation, Regression analysis, SVM, Decision Trees etc.
   - Keywords: Machine Learning | Data Science | Python 
 
