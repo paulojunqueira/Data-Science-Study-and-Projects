@@ -19,6 +19,15 @@ This repo contains a list and summary of projects that I have done in the contex
 
     
 # Computer Vision
+
+- [Autolabelling with Autodistill and GroundedSAM](https://www.kaggle.com/code/paulojunqueira/autolabeling-with-autodistill)
+  - In this Kaggle Notebook, to teste the library autodistill, a video was breaked into frames that were used in the zero-shot object detection GroundedSAM to label automatically label images and create a dataset
+  - Keywords: Autodistill | GroundedSAM | Python | Image Detection
+
+- [Zero-shot Object Detection with GroundingDINO](https://www.kaggle.com/code/paulojunqueira/zero-shot-object-detection-with-groundingdino)
+  - In this Kaggle Notebook, it is tested the Zero-shot object detection model called GroundingDINO. Transform text description input into object detection in a imagem without training
+  - Keywords: GroundingDINO | Python | Image Detection
+
 - [Detecting and Counting Vehicles with Yolo V8 - Notebook](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicles-detecting-counting)
   - In this Kaggle Notebook, a Yolo V8 model was used to detect vehicles in a video. After dectecion, the number of vehicles that passes in each direction (up\down) are counted.
   - Keywords: Yolo V8 | Python | Image Detection
