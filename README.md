@@ -20,7 +20,7 @@ This repo contains a list and summary of projects that I have done in the contex
     
 # Computer Vision
 
-- [Vehicle Tracking Time in Parking Lot(https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicle-time-tracking-in-parking-lot)
+- [Vehicle Tracking Time in Parking Lot](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicle-time-tracking-in-parking-lot)
   - In this Kaggle Notebook, it is used the YOLO V8 tracking to track vehicles and time it in a parking lot. Also, a simple color mapping is create to infer the vehicle color.
   - Keywords: YOLO V8 | Tracking | Python | Image Detection
 
