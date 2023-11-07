@@ -15,7 +15,7 @@ This repo contains a list and summary of projects that I have done in the contex
 # Large Language Models - LLM
 - [Story Generation and QA from PDF with LLMs - Notebook](https://www.kaggle.com/code/paulojunqueira/story-generation-and-qa-from-pdf-with-llm)
   - Kaggle Notebook that uses llama-2 LLM model to create a story, save as pdf and then uses this story in a QA chain with LLM model to allow the user to ask questions about the document
-  - Keywords: LangChain | Hugging Face | Llama-2 | LLM Model | Generative AI | Transformers | QA
+  - Keywords: LangChain | Hugging Face | Llama-2 | LLM Model | Generative AI | RAG
 
     
 # Computer Vision
@@ -36,7 +36,7 @@ This repo contains a list and summary of projects that I have done in the contex
   - In this Kaggle Notebook, a Yolo V8 model was used to detect vehicles in a video. After dectecion, the number of vehicles that passes in each direction (up\down) are counted.
   - Keywords: Yolo V8 | Python | Image Detection
 
-- [Detecing and Tracking People in a ROI - Notebook](https://www.kaggle.com/code/paulojunqueira/yolo-v8-people-detection-and-tracking-in-roi)
+- [Detecting and Tracking People in a ROI - Notebook](https://www.kaggle.com/code/paulojunqueira/yolo-v8-people-detection-and-tracking-in-roi)
   - In this Kaggle Notebook, a Yolo V8 model was used to detect and track peoaple passing in a region of interest (ROI).
   - Keywords: Yolo V8 | Python | Image Detection | Tracking | Detection | ROI
 
