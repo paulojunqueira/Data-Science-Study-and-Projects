@@ -17,6 +17,12 @@ This repo contains a list and summary of projects that I have done in the contex
   - Kaggle Notebook that uses llama-2 LLM model to create a story, save as pdf and then uses this story in a QA chain with LLM model to allow the user to ask questions about the document
   - Keywords: LangChain | Hugging Face | Llama-2 | LLM Model | Generative AI | RAG
 
+# NLP
+
+- [MLO Toxic Lang Train with DistilBert](https://www.kaggle.com/code/paulojunqueira/mlo-toxic-lang-distilbert-train)
+  - Kaggle Notebook for training a baseline distilBert Model to classify tweeter text into toxic and non-toxic in PTBR language
+  - Keywords: Classification | Hugging Face | BERT | NLP | Train | Competition
+    
     
 # Computer Vision
 
@@ -105,6 +111,10 @@ This repo contains a list and summary of projects that I have done in the contex
   - Keywords: Machine Learning | Data Science | Python 
 
 # EDA
+- [EDA ML Olympiad - Toxic Language 2024](https://www.kaggle.com/code/paulojunqueira/eda-ml-olympiad-toxic-language)
+  - Exploratory Data Analysis  for the ML Olympiacs - Toxic Language (PTBR). Data from Tweeter (X) with PTBR Tweets and classification of toxic or non-toxic language;  
+  - Keywords:  Classification | NLP | Competition | EDA | Visualization
+    
 - [EDA and Web Scrapping for BirdCLEF 2023 Competition](https://www.kaggle.com/code/paulojunqueira/pew-pew-overview-birdclef-2023)
   - Exploratory Data Analysis for the BirdCLEF 2023. Analysis of most\least common bird sounds, locations and other informations. Sound to spectogram transformation and analysis. Also, was created a Web scraping to look for additional information from the birds in the wikipedia page
   - Keywords: Web Scraping | Sound Classification | Spectogram | Competition | EDA | Visualization
