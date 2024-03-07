@@ -5,6 +5,7 @@ This repo contains a list and summary of projects that I have done in the contex
 # Summary
 
 - [Large Language Models - LLM](#Large-Langue-Models---LLM)
+- [NLP](#NLP)
 - [Computer Vision](#Computer-Vision)
 - [Classification](#Classification)
 - [Python and PySpark](#Python-and-PySpark)
