@@ -14,7 +14,8 @@ This repo contains a list and summary of projects that I have done in the contex
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # Large Language Models - LLM
-- [Story Generation and QA from PDF with LLMs - Notebook](https://www.kaggle.com/code/paulojunqueira/story-generation-and-qa-from-pdf-with-llm)
+- [Story Generation and QA from PDF with LLMs - Notebook TRAIN](https://www.kaggle.com/code/paulojunqueira/story-generation-and-qa-from-pdf-with-llm)
+- [Story Generation and QA from PDF with LLMs - Notebook INFER](https://www.kaggle.com/code/paulojunqueira/mlo-toxic-lang-distillbert-infer)
   - Kaggle Notebook that uses llama-2 LLM model to create a story, save as pdf and then uses this story in a QA chain with LLM model to allow the user to ask questions about the document
   - Keywords: LangChain | Hugging Face | Llama-2 | LLM Model | Generative AI | RAG
 
