@@ -16,7 +16,7 @@ This repo contains a list and summary of projects that I have done in the contex
 # Large Language Models - LLM
 - [RAG - Hybrid Search in Boargame Rulebooks PDF - Notebook](https://www.kaggle.com/code/paulojunqueira/rag-hybrid-search-in-boargame-rulebooks-pdf?rvi=1)
   - Kaggle Notebook to experiment with RAG pipeline - Hybrid Search.
-  - Keywords: LangChain | Hugging Face | Llama-2 | LLM Model | Generative AI | RAG - Hybrid Search
+  - Keywords: LangChain | Hugging Face | Llama-3 | Mistral | LLM Model | Generative AI | RAG - Hybrid Search
 
 - [(RAG) Story Generation and QA from PDF with LLMs - Notebook](https://www.kaggle.com/code/paulojunqueira/rag-story-generation-and-qa-from-pdf-with-llm)
   - Kaggle Notebook that uses llama-2 LLM model to create a story, save as pdf and then uses this story in a QA chain with LLM model to allow the user to ask questions about the document
