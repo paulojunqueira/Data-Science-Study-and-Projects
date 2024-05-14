@@ -14,6 +14,11 @@ This repo contains a list and summary of projects that I have done in the contex
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # Large Language Models - LLM
+
+- [RAG - Contextual Compression in Boardgame Rulebooks PDF - Notebook](https://www.kaggle.com/code/paulojunqueira/rag-contextual-compression-boardgames-rulebooks)
+  - Kaggle Notebook to experiment with RAG pipeline - Contextual Compression.
+  - Keywords: LangChain | Hugging Face | Llama-3 | Mistral | LLM Model | Generative AI | RAG - Contextual Compression
+
 - [RAG - Hybrid Search in Boardgame Rulebooks PDF - Notebook](https://www.kaggle.com/code/paulojunqueira/rag-hybrid-search-in-boardgame-rulebooks-pdf)
   - Kaggle Notebook to experiment with RAG pipeline - Hybrid Search.
   - Keywords: LangChain | Hugging Face | Llama-3 | Mistral | LLM Model | Generative AI | RAG - Hybrid Search
