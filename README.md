@@ -15,6 +15,10 @@ This repo contains a list and summary of projects that I have done in the contex
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # Large Language Models - LLM
 
+- [Text Loaders\Splitters for RAG - Notebook](https://www.kaggle.com/code/paulojunqueira/text-loaders-splitters-for-rag)
+  - Kaggle Notebook to experiment with Text Splitters for RAG.
+  - Keywords: LangChain | Hugging Face | PDF Chunkinzer | Generative AI | Bunny-Llama
+
 - [RAG - Contextual Compression in Boardgame Rulebooks PDF - Notebook](https://www.kaggle.com/code/paulojunqueira/rag-contextual-compression-boardgames-rulebooks)
   - Kaggle Notebook to experiment with RAG pipeline - Contextual Compression.
   - Keywords: LangChain | Hugging Face | Llama-3 | Mistral | LLM Model | Generative AI | RAG - Contextual Compression
