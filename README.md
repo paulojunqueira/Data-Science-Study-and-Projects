@@ -6,6 +6,7 @@ This repo contains a list and summary of projects that I have done in the contex
 
 - [Large Language Models - LLM](#Large-Langue-Models---LLM)
 - [NLP](#NLP)
+- [TTS - Text to Speech](#TTS---Text-to-Speech)
 - [Computer Vision](#Computer-Vision)
 - [Classification](#Classification)
 - [Python and PySpark](#Python-and-PySpark)
@@ -38,7 +39,11 @@ This repo contains a list and summary of projects that I have done in the contex
   - Kaggle Notebook for training a baseline distilBert Model to classify tweeter text into toxic and non-toxic in PTBR language
   - Keywords: Classification | Hugging Face | BERT | NLP | Train | Competition
     
-    
+# TTS - Text to Speech
+- [Naive Video Voice Over TTS and Transcriptions](https://www.kaggle.com/code/paulojunqueira/naive-video-voice-over-tts-and-transcriptions/notebook)
+  - Kaggle Notebook project to extract Audio Transcriptions, translate text and than translated audio and create a voice-over video
+  - Keywords: TTS | Hugging Face | Whisper | Facebook MMS-TTS | Translating
+  -  
 # Computer Vision
 
 - [Vehicle Tracking Time in Parking Lot](https://www.kaggle.com/code/paulojunqueira/yolo-v8-vehicle-time-tracking-in-parking-lot)
