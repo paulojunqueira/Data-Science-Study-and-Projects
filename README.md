@@ -15,7 +15,10 @@ This repo contains a list and summary of projects that I have done in the contex
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # Large Language Models - LLM
-
+- [IT - Ticket Classification Llama 3.1](https://www.kaggle.com/code/paulojunqueira/it-ticket-classification-llama-3-1)
+  - Kaggle Notebook for finetuning Llamma 3.1 for a classification task on IT Ticket text
+  - Keywords: Classification | Hugging Face | Llama | Finetuning |
+    
 - [Text Loaders\Splitters for RAG - Notebook](https://www.kaggle.com/code/paulojunqueira/text-loaders-splitters-for-rag)
   - Kaggle Notebook to experiment with Text Splitters for RAG.
   - Keywords: LangChain | Hugging Face | PDF Chunkinzer | Generative AI | Bunny-Llama
@@ -33,7 +36,14 @@ This repo contains a list and summary of projects that I have done in the contex
   - Keywords: LangChain | Hugging Face | Llama-2 | LLM Model | Generative AI | RAG
 
 # NLP
-
+- [Classification and Feature Extraction with DeBERTa](https://www.kaggle.com/code/paulojunqueira/classification-and-feature-extraction-with-deberta)
+  - Kaggle Notebook for training a baseline with DeBERTa Model to classify text into emotions. Also, tested its performance as feature extractor with XGBoost
+  - Keywords: Classification | Hugging Face | BERT | NLP | Viz |
+    
+- [Tweet Disaster Classification DeBERTA](https://www.kaggle.com/code/paulojunqueira/tweet-disaster-classification-deberta-train-infer)
+  - Kaggle Notebook for training a baseline with DeBERTa Model to classify text of disasters\not disasters
+  - Keywords: Classification | Hugging Face | BERT | NLP | Viz |
+    
 - [MLO Toxic Lang Train with DistilBert - Notebook TRAIN](https://www.kaggle.com/code/paulojunqueira/mlo-toxic-lang-distilbert-train)
 - [MLO Toxic Lang Train with DistilBert - Notebook INFER](https://www.kaggle.com/code/paulojunqueira/mlo-toxic-lang-distillbert-infer)
   - Kaggle Notebook for training a baseline distilBert Model to classify tweeter text into toxic and non-toxic in PTBR language
