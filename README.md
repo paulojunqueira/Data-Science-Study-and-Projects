@@ -36,6 +36,10 @@ This repo contains a list and summary of projects that I have done in the contex
   - Keywords: LangChain | Hugging Face | Llama-2 | LLM Model | Generative AI | RAG
 
 # NLP
+- [Classic NLP Methods Revision](https://www.kaggle.com/code/paulojunqueira/classic-nlp-methods-revision)
+  - Kaggle Notebook exploring classic NLP methods such as Bag of Words and TF-IDF
+  - Keywords: Classification | NLP | Viz 
+
 - [Classification and Feature Extraction with DeBERTa](https://www.kaggle.com/code/paulojunqueira/classification-and-feature-extraction-with-deberta)
   - Kaggle Notebook for training a baseline with DeBERTa Model to classify text into emotions. Also, tested its performance as feature extractor with XGBoost
   - Keywords: Classification | Hugging Face | BERT | NLP | Viz |
